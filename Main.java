@@ -15,6 +15,6 @@ class Main{
 			Person person = new Person();
 			System.out.println(person.toString());
 		}
-		System.out.println("Hello Meaw");
+		System.out.println("Hello Meaw A");
 	}
 }
